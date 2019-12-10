@@ -10,6 +10,8 @@ wolftrace 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.wolftrace.cn/my-github-repos)
+* [再试试](http://www.wolftrace.cn/articles/2019/12/09/1575880415638.html)
 * [其实很简单](http://www.wolftrace.cn/articles/2019/12/09/1575879364890.html)
 * [世界，你好！](http://www.wolftrace.cn/hello-solo)
 
